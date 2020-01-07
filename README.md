@@ -4,5 +4,5 @@
     <img width="300" height="300" src="https://raw.githubusercontent.com/instant-OS/instant-LOGO/master/png/logo.png">
 </div>
 
-
+--------
 ### instant-OS is still in early beta, contributions always welcome
