@@ -1,0 +1,9 @@
+[Plymouth Theme]
+Name=instantos
+Description=display a rotating and transforming instantOS logo
+Comment=created By paperbenni (bit.ly/paperbenniyt)
+ModuleName=script
+
+[script]
+ImageDir=/usr/share/plymouth/themes/instantos
+ScriptFile=/usr/share/plymouth/themes/instantos/instantos.script
