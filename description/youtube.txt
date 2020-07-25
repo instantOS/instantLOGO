@@ -1,6 +1,13 @@
 Download: instantos.io/download
 
-instantOS is an Arch based Distribution with an "it just works" philosophy and a focus on power user features and performance
+instantOS is an Arch based Distribution with an "it just works" philosophy and a focus on power user features and performance. 
+Some of its features include: 
 
+- a hybrid window manager
+- a graphical control center
+- instantASSIST for easy access to over 50 features
+- an easy to use automatic installer
+
+GitHub: github.com/instantos
 Patreon: patreon.com/paperbenni
 Buy me a coffee: buymeacoffee.com/paperbenni
