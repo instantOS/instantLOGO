@@ -12,3 +12,5 @@ Some of its features include:
 GitHub: https://github.com/instantos
 Patreon: https://patreon.com/paperbenni
 Buy me a coffee: https://buymeacoffee.com/paperbenni
+
+Vote for instantOS on Distrowatch: https://distrowatch.com/dwres.php?resource=links#new
