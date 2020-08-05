@@ -3,3 +3,5 @@
 */*.png filter=lfs diff=lfs merge=lfs -text
 */*.jpg filter=lfs diff=lfs merge=lfs -text
 *.jpg filter=lfs diff=lfs merge=lfs -text
+streams/transition0001-0186.webm filter=lfs diff=lfs merge=lfs -text
+streams/tile0000-0090.mkv filter=lfs diff=lfs merge=lfs -text
