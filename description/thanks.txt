@@ -1,7 +1,9 @@
-big thanks to the distro's pateons
 
-https://patreon.com/paperbenni
+Big thanks to the distro's  \u001b[31mPatreons\u001b[0m
 
+\u001b[34mhttps://patreon.com/paperbenni\u001b[0m
+
+------------------------
 con-f-use
 CHAITANYA CHALASANI
 LambdaScientist
