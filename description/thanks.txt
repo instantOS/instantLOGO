@@ -4,11 +4,18 @@ Big thanks to the distro's  \u001b[31mPatreons\u001b[0m
 \u001b[34mhttps://patreon.com/paperbenni\u001b[0m
 
 ------------------------
-con-f-use
+con-f-use 
 CHAITANYA CHALASANI
-LambdaScientist
-Omry Ginzburg
+Lucas
+Emily S
+Gordon Melsom
+Neal Brophy
+Mauricio Gomes
+Laurent Baumann
 Michal Siedlaczek
 Carlos Echenique
 Jason Crabtree
-Nick
+Nick 
+jonas sprenger
+Omry Ginzburg
+Lambda Scientist
