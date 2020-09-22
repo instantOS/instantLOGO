@@ -1,0 +1,8 @@
+instantOS vdocs is a video series of short tutorials discussing features of
+instantOS that you can add to your workflow one by one. 
+
+GitHub: https://github.com/instantos
+Patreon: https://patreon.com/paperbenni
+Buy me a coffee: https://buymeacoffee.com/paperbenni
+
+Vote for instantOS on Distrowatch: https://distrowatch.com/dwres.php?resource=links#new
