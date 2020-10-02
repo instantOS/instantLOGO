@@ -1,0 +1,5 @@
+This channel contains things that needs testing. It's usually a quick
+description of a task and if you want to help or are experiencing problems you
+can do what is described in the task and report back. The channel exists for
+things that I either don't have the hardware to test on or need confirmation
+for being a general issue. 
