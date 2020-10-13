@@ -1,7 +1,7 @@
 <div align="center">
     <h1>instantLOGO</h1>
     <p>logos and assets for all instantOS related projects</p>
-    <img width="300" height="300" src="https://media.githubusercontent.com/media/instantOS/instantLOGO/master/png/logo.png">
+    <img width="300" height="300" src="https://raw.githubusercontent.com/instantOS/instantLOGO/master/png/logo.png">
 </div>
 
 --------
