@@ -4,17 +4,16 @@ Big thanks to the distro's  \u001b[31mPatreons\u001b[0m
 \u001b[34mhttps://patreon.com/paperbenni\u001b[0m
 
 ------------------------
-con-f-use 
 CHAITANYA CHALASANI
-Lucas
-Gordon Melsom
-Neal Brophy
-Mauricio Gomes
-Laurent Baumann
-Michal Siedlaczek
-Carlos Echenique
-Jason Crabtree
-Nick 
-jonas sprenger
-Omry Ginzburg
+con-f-use
 Lambda Scientist
+dziadu
+Eric Koslow
+jonas sprenger
+Carlos Brighton	
+Carlos Echenique
+Daniel Come Gesome
+dustin selman
+Michal Siedlaczek
+Pebor
+Robert Bojorquez
